@@ -1,4 +1,4 @@
-#Belajar React
+# Belajar React
 
 Dipelajaran kali ini kita belajar tentang redux dengan menggunakan library redux dan react-redux
 ```
